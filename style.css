@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+
+#add {
+    color: lightgreen;
+}
+
+button {
+    background-color:brown;
+    border: none;
+}
